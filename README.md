@@ -11,7 +11,7 @@ go install -v github.com/xm1k3/go-tuya@latest
 
 Make sure you have Go installed on your machine.
 
-## Usage
+## Usage
 
 After installation, you can use your tool from the command line. Here are some example commands:
 
